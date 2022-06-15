@@ -44,7 +44,7 @@ const UserScreen = () => {
             style={{
               width: 100,
               height: 100,
-              borderRadius: "50%",
+              borderRadius: 50,
               marginTop: 10,
               marginRight: 20,
               resizeMode: "contain",
