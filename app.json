@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "ShowUser",
+    "name": "Show Fake User",
     "slug": "ShowUser",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is an user fetching react native app",
+    "githubUrl": "https://github.com/meer-habib-dev/show-user-native"
   }
 }
