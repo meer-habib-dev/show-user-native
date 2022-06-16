@@ -31,7 +31,7 @@ const Hero = () => {
               style={styles.icon}
             />
           </TouchableOpacity>
-          <TouchableOpacity>
+          <TouchableOpacity style={{ top: 15 }}>
             <Entypo name="dots-three-horizontal" size={24} color="white" />
           </TouchableOpacity>
         </View>
