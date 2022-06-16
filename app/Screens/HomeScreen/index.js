@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { FlatList, SafeAreaView, StyleSheet } from "react-native";
-import Loading from "./components/Loading";
-import Users from "./components/Users";
+import Loading from "./sections/Loading";
+import Users from "./sections/Users";
 
 const HomeScreen = () => {
   const [userData, setUserData] = useState([]);
